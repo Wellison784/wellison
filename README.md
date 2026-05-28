@@ -1,6 +1,3 @@
-<p align="right">
-  <img src="ezgif.com-effects.jpg" alt="Minha Foto Animada" width="120" height="120" style="border-radius: 50%; object-fit: cover;">
-</p>
 
 ## Olá! Eu sou o Wellison Alves
 - 💻 Hoje trabalho com front-end
@@ -24,6 +21,11 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+
+  <p align="right">
+  <img src="ezgif.com-effects.jpg" alt="Minha Foto Animada" width="120" height="120" style="border-radius: 50%; object-fit: cover;">
+</p>
+
 </div>
 
 <br>
