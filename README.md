@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="nego.jpeg" alt="Minha Foto" width="120" height="120" style="border-radius: 50%; object-fit: cover;">
+  <img src="ezgif.com-effects.jpg" alt="Minha Foto Animada" width="120" height="120" style="border-radius: 50%; object-fit: cover;">
 </p>
 
 ## Olá! Eu sou o Wellison Alves
