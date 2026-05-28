@@ -1,21 +1,18 @@
 ## Olá! Eu sou o Wellison Alves
--💻 Hoje trabalho com front-end
+- 💻 Hoje trabalho com front-end
+- 🎓 Estudando TypeScript, HTML, CSS, Hardware e Engenharia de Software
+- 😊 Pronouns: ele/dele
 
--🎓Estudando typescript,html,css, Hadware, engenharia de software
-
--😊 Pronouns: ele/dele
-
-
+---
 
 <div>
-  <a href="https://beacons.ai/wellison784" target="_blank">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wellison784&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wellison784&layout=compact&langs_count=16&theme=dracula" />
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wellison784&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wellison784&layout=compact&langs_count=16&theme=dracula" />
 </div>
 
+<br>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -24,13 +21,12 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-  
-  ##
+
+<br>
  
 <div> 
-  <a href="https://www.youtube.com/@wellison2751" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/wellison20111?utm_source=qr&igsh=NXNhbWNjMnIybXVv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:wellison20111@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/wellison-alves-tecnologiadainformacao?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BAevAW9vYTja5c7OoYHZMRg%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <a href="https://www.youtube.com/@wellison2751" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://www.instagram.com/wellison20111?utm_source=qr&igsh=NXNhbWNjMnIybXVv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:wellison20111@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/wellison-alves-tecnologiadainformacao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
