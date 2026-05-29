@@ -26,8 +26,11 @@
   
 ## 🐍 Jogo da Cobrinha
 
-![GitHub Snake](https://raw.githubusercontent.com/Wellison784/wellison/output/github-contribution-grid-snake.svg)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wellison784/wellison/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wellison784/wellison/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Wellison784/wellison/output/github-contribution-grid-snake.svg">
+</picture>
 
   <p align="right">
   <img src="ezgif.com-effects.jpg" alt="Minha Foto Animada" width="120" height="120" style="border-radius: 50%; object-fit: cover;">
