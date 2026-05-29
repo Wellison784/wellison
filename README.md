@@ -22,10 +22,11 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 
+
   
 ## 🐍 Jogo da Cobrinha
 
-![GitHub Snake](https://raw.githubusercontent.com/Wellison784/Wellison784/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/Wellison784/wellison/output/github-contribution-grid-snake.svg)
 
 
   <p align="right">
